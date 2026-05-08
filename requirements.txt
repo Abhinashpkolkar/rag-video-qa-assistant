@@ -1,0 +1,7 @@
+whisper
+numpy
+pandas
+scikit-learn
+joblib
+ollama
+sentence-transformers

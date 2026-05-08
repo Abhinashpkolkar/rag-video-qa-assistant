@@ -1,0 +1,11 @@
+Query:
+What is gradient descent?
+
+Answer:
+Gradient descent is an optimization algorithm used to minimize a loss function by iteratively updating parameters in the direction of steepest descent.
+
+Video:
+Lecture 3
+
+Timestamp:
+12:45

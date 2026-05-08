@@ -48,8 +48,30 @@ Video → Audio Extraction → Whisper Transcription → Text Chunking → Embed
 
 ---
 
+
+
 ## Future Improvements
 
 * Integrate FAISS / Milvus for scalable vector search
 * Add Streamlit or Flask UI
 * Support real-time video ingestion
+
+---
+
+## Repository Structure
+
+```text
+rag-video-qa-assistant/
+│
+├── README.md
+├── requirements.txt
+│
+├── src/
+│   ├── mp3_to_json.py
+│   ├── preprocess_json.py
+│   ├── process_incoming.py
+│   └── video_to_mp3.py
+│
+└── sample_output/
+    └── example.txt
+```
